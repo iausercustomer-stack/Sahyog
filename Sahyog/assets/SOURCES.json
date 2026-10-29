@@ -1,0 +1,54 @@
+[
+  {
+    "source": "https://images.unsplash.com/photo-1581093450021-4a7360e9a6b5?auto=format&fit=crop&w=600&q=80",
+    "local": "assets/resource-1.jpg",
+    "note": "Inherited illustrative Unsplash catalog image; not a photograph of a verified institution or model."
+  },
+  {
+    "source": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=600&q=80",
+    "local": "assets/resource-2.jpg",
+    "note": "Inherited illustrative Unsplash catalog image; not a photograph of a verified institution or model."
+  },
+  {
+    "source": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=600&q=80",
+    "local": "assets/resource-3.jpg",
+    "note": "Inherited illustrative Unsplash catalog image; not a photograph of a verified institution or model."
+  },
+  {
+    "source": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=600&q=80",
+    "local": "assets/resource-4.jpg",
+    "note": "Inherited illustrative Unsplash catalog image; not a photograph of a verified institution or model."
+  },
+  {
+    "source": "https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&w=600&q=80",
+    "local": "assets/resource-6.jpg",
+    "note": "Inherited illustrative Unsplash catalog image; not a photograph of a verified institution or model."
+  },
+  {
+    "source": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&w=600&q=80",
+    "local": "assets/resource-7.jpg",
+    "note": "Inherited illustrative Unsplash catalog image; not a photograph of a verified institution or model."
+  },
+  {
+    "source": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?auto=format&fit=crop&w=600&q=80",
+    "local": "assets/resource-8.jpg",
+    "note": "Inherited illustrative Unsplash catalog image; not a photograph of a verified institution or model."
+  },
+  {
+    "source": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=900&q=80",
+    "local": "assets/resource-9.jpg",
+    "note": "Inherited illustrative Unsplash catalog image; not a photograph of a verified institution or model."
+  },
+  {
+    "source": "https://images.unsplash.com/photo-1581092921461-eab62e97a780?auto=format&fit=crop&w=900&q=80",
+    "local": "assets/resource-10.jpg",
+    "note": "Inherited illustrative Unsplash catalog image; not a photograph of a verified institution or model."
+  },
+  {
+    "source": "https://unsplash.com/photos/SU2yTv4Hwis",
+    "download": "https://images.unsplash.com/photo-1702863361902-93c51bfbd923?auto=format&fit=crop&fm=jpg&q=80&w=900",
+    "local": "assets/3d-printer.jpg",
+    "photographer": "Efe Ya\u011f\u0131z Soysal",
+    "note": "Illustrative 3D printer; not the exact listed model. Source page identifies Unsplash License."
+  }
+]
